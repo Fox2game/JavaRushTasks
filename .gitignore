@@ -6,3 +6,5 @@ out/production/*
 *.xml
 *.class
 *.png
+*.log
+
