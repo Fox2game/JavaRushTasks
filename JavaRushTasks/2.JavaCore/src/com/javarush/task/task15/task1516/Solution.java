@@ -6,6 +6,8 @@ package com.javarush.task.task15.task1516;
 
 
 public class Solution {
+
+
     public int intVar;
     public double doubleVar;
     public Double DoubleVar;
