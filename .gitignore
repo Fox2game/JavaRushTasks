@@ -4,7 +4,6 @@ target/
 .repository/
 *.iml
 *.iws
-*.jrtc
 *.info
 *.properties
 *tmp.drivedownload
