@@ -29,11 +29,17 @@ public class Solution {
     public static Map<String, Integer> countWords(ArrayList<String> list) {
         HashMap<String, Integer> result = new HashMap<String, Integer>();
 
+        for (String s : list) {
+            if (!result.containsKey(s)) {
+                result.put(s, 1);
+            } else {
+                result.put(s, result.get(s) + 1);
+            }
+            //result.put(s, result.containsKey(s) ? result.get(s) + 1 : 1);
+        }
+
         //напишите тут ваш код
-
-
         return result;
     }
 
 }
-
