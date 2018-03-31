@@ -7,7 +7,7 @@ target/
 *.jrtc
 *.info
 *.properties
-*.drivedownload
+*tmp.drivedownload
 *.driveupload
 
 /1.JavaSyntax/
