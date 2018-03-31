@@ -12,6 +12,8 @@ target/
 *.class
 *.info
 *.properties
+*.drivedownload
+*.driverupload
 
 /1.JavaSyntax/
 /2.JavaCore/
