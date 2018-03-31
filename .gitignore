@@ -1,9 +1,6 @@
-﻿#############
-## Idea
-#############
+﻿
 target/
 .idea/
-.idea
 .repository/
 *.iml
 *.iws
